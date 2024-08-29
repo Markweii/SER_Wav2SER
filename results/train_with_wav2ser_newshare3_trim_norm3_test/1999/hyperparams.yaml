@@ -1,0 +1,148 @@
+# Generated 2024-04-22 from:
+# /media/super514/2TSSD/Mark/SER_preprocessing/hparams/train_custom_inputandlayer.yaml
+# yamllint disable
+# ########################################
+# Emotion recognition from speech using wav2vec2
+# For more wav2vec2/HuBERT results, please see https://arxiv.org/pdf/2111.02735.pdf
+#  * Authors: Yingzhi WANG
+# ########################################
+
+# Seed needs to be set at top of yaml, before objects with parameters are made
+seed: 1999
+__set_seed: !apply:torch.manual_seed [1999]
+
+# Dataset will be downloaded to the `data_original`
+data_folder: /media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake  # e.g., /path/to/IEMOCAP_full_release
+output_folder: results/train_with_wav2ser_newshare3_trim_norm3_test/1999
+save_folder: results/train_with_wav2ser_newshare3_trim_norm3_test/1999/save
+train_log: results/train_with_wav2ser_newshare3_trim_norm3_test/1999/train_log.txt
+
+# URL for the wav2vec2 model, you can change to benchmark diffrenet models
+# Important: we use wav2vec2 base and not the fine-tuned one with ASR task
+# This allow you to have ~4% improvment
+# wav2vec2_hub: "facebook/hubert-base-ls960"
+wav2vec2_hub: microsoft/wavlm-base-plus
+
+# different speakers for train, valid and test sets
+different_speakers: false
+# which speaker is used for test set, value from 1 to 10
+test_spk_id: 1
+
+# Path where data manifest files will be stored
+train_annotation: results/train_with_wav2ser_newshare3_trim_norm3_test/1999/train.json
+valid_annotation: results/train_with_wav2ser_newshare3_trim_norm3_test/1999/valid.json
+test_annotation: results/train_with_wav2ser_newshare3_trim_norm3_test/1999/test.json
+# new sharefeature data
+hap_annotation: results/train_with_wav2ser_newshare3_trim_norm3_test/1999/train_data_hap.json
+ang_annotation: results/train_with_wav2ser_newshare3_trim_norm3_test/1999/train_data_ang.json
+sad_annotation: results/train_with_wav2ser_newshare3_trim_norm3_test/1999/train_data_sad.json
+neu_annotation: results/train_with_wav2ser_newshare3_trim_norm3_test/1999/train_data_neu.json
+
+# The train logger writes training statistics to a file, as well as stdout.
+train_logger: !new:speechbrain.utils.train_logger.FileTrainLogger
+  save_file: results/train_with_wav2ser_newshare3_trim_norm3_test/1999/train_log.txt
+
+ckpt_interval_minutes: 15 # save checkpoint every N min
+
+# Training parameters
+number_of_epochs: 30
+batch_size: 3
+lr: 0.0001
+lr_wav2vec2: 0.00001
+
+#freeze all wav2vec2
+freeze_wav2vec2: false
+#set to true to freeze the CONV part of the wav2vec2 model
+# We see an improvement of 2% with freezing CNNs
+freeze_wav2vec2_conv: true
+
+# Model parameters
+encoder_dim: 768
+
+# Encoder parameters
+out_dim: 256
+
+# Number of emotions
+out_n_neurons: 4 # (anger, happiness, sadness, neutral)
+
+dataloader_options:
+  batch_size: 3
+  shuffle: true
+  num_workers: 2    # 2 on linux but 0 works on windows
+  drop_last: false
+
+# Wav2vec2 encoder
+wav2vec2: &id001 !new:speechbrain.lobes.models.huggingface_wav2vec.HuggingFaceWav2Vec2
+  source: microsoft/wavlm-base-plus
+  output_norm: true
+  freeze: false
+  freeze_feature_extractor: true
+  save_path: 
+    results/train_with_wav2ser_newshare3_trim_norm3_test/1999/save/wav2vec2_checkpoint
+
+avg_pool: &id004 !new:speechbrain.nnet.pooling.StatisticsPooling
+  return_std: false
+
+output_encoder: &id002 !new:custom.encoder.Encoder
+  input_size: 768
+  n_neurons: 256
+
+output_mlp: &id003 !new:speechbrain.nnet.linear.Linear
+  input_size: 256
+  n_neurons: 4
+  bias: false
+
+epoch_counter: &id008 !new:speechbrain.utils.epoch_loop.EpochCounter
+  limit: 30
+
+mean_var_norm: &id005 !new:speechbrain.processing.features.InputNormalization
+
+# model: !new:torch.nn.ModuleList
+#     - [!ref <output_encoder>]
+#     # - [!ref <output_mlp>]
+
+  norm_type: sentence
+  std_norm: true
+
+modules:
+  wav2vec2: *id001
+  output_encoder: *id002
+  output_mlp: *id003
+  avg_pool: *id004
+  mean_var_norm: *id005
+log_softmax: !new:speechbrain.nnet.activations.Softmax
+  apply_log: true
+
+compute_cost: !name:speechbrain.nnet.losses.nll_loss
+
+error_stats: !name:speechbrain.utils.metric_stats.MetricStats
+  metric: !name:speechbrain.nnet.losses.classification_error
+    reduction: batch
+
+opt_class: !name:torch.optim.Adam
+  lr: 0.0001
+
+wav2vec2_opt_class: !name:torch.optim.Adam
+  lr: 0.00001
+
+lr_annealing: &id006 !new:speechbrain.nnet.schedulers.NewBobScheduler
+  initial_value: 0.0001
+  improvement_threshold: 0.0025
+  annealing_factor: 0.9
+  patient: 0
+
+lr_annealing_wav2vec2: &id007 !new:speechbrain.nnet.schedulers.NewBobScheduler
+  initial_value: 0.00001
+  improvement_threshold: 0.0025
+  annealing_factor: 0.9
+
+checkpointer: !new:speechbrain.utils.checkpoints.Checkpointer
+  checkpoints_dir: results/train_with_wav2ser_newshare3_trim_norm3_test/1999/save
+  recoverables:
+    output_encoder: *id002
+    output_mlp: *id003
+    wav2vec2: *id001
+    lr_annealing_output: *id006
+    lr_annealing_wav2vec2: *id007
+    normalizer: *id005
+    counter: *id008

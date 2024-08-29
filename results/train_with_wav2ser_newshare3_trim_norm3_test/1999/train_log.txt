@@ -1,0 +1,33 @@
+Epoch: 1, lr: 1.00e-04, wave2vec_lr: 1.00e-05 - train loss: 5.40e-01 - valid loss: 7.62e-01, valid error_rate: 1.97e-01
+Epoch: 2, lr: 1.00e-04, wave2vec_lr: 1.00e-05 - train loss: 2.20e-01 - valid loss: 9.82e-01, valid error_rate: 2.03e-01
+Epoch: 3, lr: 9.00e-05, wave2vec_lr: 9.00e-06 - train loss: 1.24e-01 - valid loss: 1.10, valid error_rate: 1.93e-01
+Epoch: 4, lr: 9.00e-05, wave2vec_lr: 9.00e-06 - train loss: 8.88e-02 - valid loss: 1.37, valid error_rate: 2.08e-01
+Epoch: 5, lr: 8.10e-05, wave2vec_lr: 8.10e-06 - train loss: 6.02e-02 - valid loss: 1.50, valid error_rate: 2.19e-01
+Epoch: 6, lr: 7.29e-05, wave2vec_lr: 7.29e-06 - train loss: 4.62e-02 - valid loss: 1.59, valid error_rate: 2.15e-01
+Epoch: 7, lr: 7.29e-05, wave2vec_lr: 7.29e-06 - train loss: 3.86e-02 - valid loss: 1.67, valid error_rate: 2.41e-01
+Epoch: 8, lr: 6.56e-05, wave2vec_lr: 6.56e-06 - train loss: 3.17e-02 - valid loss: 1.79, valid error_rate: 2.13e-01
+Epoch: 9, lr: 6.56e-05, wave2vec_lr: 6.56e-06 - train loss: 3.06e-02 - valid loss: 1.48, valid error_rate: 2.04e-01
+Epoch: 10, lr: 6.56e-05, wave2vec_lr: 6.56e-06 - train loss: 2.41e-02 - valid loss: 1.70, valid error_rate: 2.03e-01
+Epoch: 11, lr: 6.56e-05, wave2vec_lr: 6.56e-06 - train loss: 2.36e-02 - valid loss: 1.98, valid error_rate: 2.21e-01
+Epoch: 12, lr: 5.90e-05, wave2vec_lr: 5.90e-06 - train loss: 2.02e-02 - valid loss: 1.86, valid error_rate: 1.97e-01
+Epoch: 13, lr: 5.90e-05, wave2vec_lr: 5.90e-06 - train loss: 1.84e-02 - valid loss: 1.88, valid error_rate: 2.19e-01
+Epoch: 14, lr: 5.31e-05, wave2vec_lr: 5.31e-06 - train loss: 1.69e-02 - valid loss: 1.75, valid error_rate: 2.04e-01
+Epoch: 15, lr: 5.31e-05, wave2vec_lr: 5.31e-06 - train loss: 1.37e-02 - valid loss: 2.01, valid error_rate: 2.10e-01
+Epoch: 16, lr: 4.78e-05, wave2vec_lr: 4.78e-06 - train loss: 1.26e-02 - valid loss: 1.95, valid error_rate: 1.99e-01
+Epoch: 17, lr: 4.78e-05, wave2vec_lr: 4.78e-06 - train loss: 1.16e-02 - valid loss: 2.16, valid error_rate: 2.08e-01
+Epoch: 18, lr: 4.30e-05, wave2vec_lr: 4.30e-06 - train loss: 1.10e-02 - valid loss: 2.15, valid error_rate: 2.21e-01
+Epoch: 19, lr: 3.87e-05, wave2vec_lr: 3.87e-06 - train loss: 7.16e-03 - valid loss: 2.31, valid error_rate: 1.99e-01
+Epoch: 20, lr: 3.87e-05, wave2vec_lr: 3.87e-06 - train loss: 7.57e-03 - valid loss: 2.28, valid error_rate: 1.99e-01
+Epoch: 21, lr: 3.49e-05, wave2vec_lr: 3.49e-06 - train loss: 7.32e-03 - valid loss: 2.08, valid error_rate: 1.92e-01
+Epoch: 22, lr: 3.49e-05, wave2vec_lr: 3.49e-06 - train loss: 8.38e-03 - valid loss: 2.26, valid error_rate: 2.06e-01
+Epoch: 23, lr: 3.14e-05, wave2vec_lr: 3.14e-06 - train loss: 6.55e-03 - valid loss: 2.35, valid error_rate: 2.06e-01
+Epoch: 24, lr: 2.82e-05, wave2vec_lr: 2.82e-06 - train loss: 5.59e-03 - valid loss: 2.31, valid error_rate: 2.08e-01
+Epoch: 25, lr: 2.54e-05, wave2vec_lr: 2.54e-06 - train loss: 4.60e-03 - valid loss: 2.23, valid error_rate: 1.90e-01
+Epoch: 26, lr: 2.54e-05, wave2vec_lr: 2.54e-06 - train loss: 4.34e-03 - valid loss: 2.36, valid error_rate: 2.06e-01
+Epoch: 27, lr: 2.29e-05, wave2vec_lr: 2.29e-06 - train loss: 3.41e-03 - valid loss: 2.20, valid error_rate: 1.93e-01
+Epoch: 28, lr: 2.29e-05, wave2vec_lr: 2.29e-06 - train loss: 3.69e-03 - valid loss: 2.65, valid error_rate: 2.17e-01
+Epoch: 29, lr: 2.06e-05, wave2vec_lr: 2.06e-06 - train loss: 3.55e-03 - valid loss: 2.61, valid error_rate: 2.17e-01
+Epoch: 30, lr: 1.85e-05, wave2vec_lr: 1.85e-06 - train loss: 2.76e-03 - valid loss: 2.42, valid error_rate: 1.99e-01
+Epoch loaded: 25 - test loss: 1.86, test error_rate: 1.62e-01
+Epoch loaded: 25 - test loss: 1.86, test error_rate: 1.62e-01
+Epoch loaded: 25 - test loss: 1.86, test error_rate: 1.62e-01

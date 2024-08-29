@@ -1,0 +1,2772 @@
+{
+  "Ses04M_script03_1_M028": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script03_1/Ses04M_script03_1_M028.wav",
+    "length": 1.97725,
+    "emo": "neu"
+  },
+  "Ses02F_script02_1_M043": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_script02_1/Ses02F_script02_1_M043.wav",
+    "length": 1.92,
+    "emo": "neu"
+  },
+  "Ses02M_impro02_M013": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro02/Ses02M_impro02_M013.wav",
+    "length": 8.6159375,
+    "emo": "sad"
+  },
+  "Ses04M_script02_2_M034": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script02_2/Ses04M_script02_2_M034.wav",
+    "length": 1.9499375,
+    "emo": "ang"
+  },
+  "Ses05F_script03_1_F033": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_script03_1/Ses05F_script03_1_F033.wav",
+    "length": 1.7346875,
+    "emo": "neu"
+  },
+  "Ses04M_impro07_F023": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_impro07/Ses04M_impro07_F023.wav",
+    "length": 3.07,
+    "emo": "neu"
+  },
+  "Ses04F_script01_3_M029": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script01_3/Ses04F_script01_3_M029.wav",
+    "length": 2.3499375,
+    "emo": "sad"
+  },
+  "Ses01F_script02_1_M026": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M026.wav",
+    "length": 5.1524375,
+    "emo": "neu"
+  },
+  "Ses03M_impro07_M007": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro07/Ses03M_impro07_M007.wav",
+    "length": 0.5849375,
+    "emo": "hap"
+  },
+  "Ses05F_script03_2_F000": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_script03_2/Ses05F_script03_2_F000.wav",
+    "length": 3.303875,
+    "emo": "neu"
+  },
+  "Ses04F_impro04_M019": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro04/Ses04F_impro04_M019.wav",
+    "length": 4.79,
+    "emo": "neu"
+  },
+  "Ses02F_script02_1_M012": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_script02_1/Ses02F_script02_1_M012.wav",
+    "length": 4.75,
+    "emo": "neu"
+  },
+  "Ses02F_script01_1_F018": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_script01_1/Ses02F_script01_1_F018.wav",
+    "length": 2.4415625,
+    "emo": "neu"
+  },
+  "Ses05F_impro05_M007": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro05/Ses05F_impro05_M007.wav",
+    "length": 4.038125,
+    "emo": "neu"
+  },
+  "Ses05M_script02_2_F026": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script02_2/Ses05M_script02_2_F026.wav",
+    "length": 4.466875,
+    "emo": "sad"
+  },
+  "Ses01F_impro03_F025": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_F025.wav",
+    "length": 3.93,
+    "emo": "hap"
+  },
+  "Ses05F_script01_1_M025": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_script01_1/Ses05F_script01_1_M025.wav",
+    "length": 2.1099375,
+    "emo": "ang"
+  },
+  "Ses05M_script01_1b_M002": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script01_1b/Ses05M_script01_1b_M002.wav",
+    "length": 8.0,
+    "emo": "sad"
+  },
+  "Ses05M_script01_1_M023": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script01_1/Ses05M_script01_1_M023.wav",
+    "length": 2.23,
+    "emo": "ang"
+  },
+  "Ses05M_script03_2_M008": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script03_2/Ses05M_script03_2_M008.wav",
+    "length": 2.85,
+    "emo": "ang"
+  },
+  "Ses05F_impro07_F031": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro07/Ses05F_impro07_F031.wav",
+    "length": 2.1899375,
+    "emo": "hap"
+  },
+  "Ses03F_impro07_F012": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro07/Ses03F_impro07_F012.wav",
+    "length": 2.1378125,
+    "emo": "hap"
+  },
+  "Ses05F_script02_2_F034": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_script02_2/Ses05F_script02_2_F034.wav",
+    "length": 9.8910625,
+    "emo": "hap"
+  },
+  "Ses04M_impro07_M001": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_impro07/Ses04M_impro07_M001.wav",
+    "length": 2.73,
+    "emo": "hap"
+  },
+  "Ses03M_impro05b_F007": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro05b/Ses03M_impro05b_F007.wav",
+    "length": 5.8,
+    "emo": "neu"
+  },
+  "Ses04M_impro08_M022": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_impro08/Ses04M_impro08_M022.wav",
+    "length": 1.23,
+    "emo": "neu"
+  },
+  "Ses02F_script02_1_M001": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_script02_1/Ses02F_script02_1_M001.wav",
+    "length": 4.1299375,
+    "emo": "hap"
+  },
+  "Ses05F_script03_1_M011": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_script03_1/Ses05F_script03_1_M011.wav",
+    "length": 8.2199375,
+    "emo": "hap"
+  },
+  "Ses02M_impro07_F024": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro07/Ses02M_impro07_F024.wav",
+    "length": 2.0599375,
+    "emo": "hap"
+  },
+  "Ses01F_script03_2_M025": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M025.wav",
+    "length": 4.49,
+    "emo": "ang"
+  },
+  "Ses04F_impro07_M021": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_M021.wav",
+    "length": 8.25,
+    "emo": "neu"
+  },
+  "Ses04M_impro03_M020": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_impro03/Ses04M_impro03_M020.wav",
+    "length": 11.6680625,
+    "emo": "hap"
+  },
+  "Ses01M_script02_2_F036": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_F036.wav",
+    "length": 8.2925,
+    "emo": "sad"
+  },
+  "Ses04M_script03_1_F005": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script03_1/Ses04M_script03_1_F005.wav",
+    "length": 3.25,
+    "emo": "hap"
+  },
+  "Ses02M_script01_1_F041": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script01_1/Ses02M_script01_1_F041.wav",
+    "length": 2.0799375,
+    "emo": "sad"
+  },
+  "Ses05M_script03_1_M010": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script03_1/Ses05M_script03_1_M010.wav",
+    "length": 2.2099375,
+    "emo": "hap"
+  },
+  "Ses05F_impro02_M029": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro02/Ses05F_impro02_M029.wav",
+    "length": 6.8199375,
+    "emo": "sad"
+  },
+  "Ses03M_script02_1_M034": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_script02_1/Ses03M_script02_1_M034.wav",
+    "length": 3.1574375,
+    "emo": "hap"
+  },
+  "Ses04F_script01_2_F016": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script01_2/Ses04F_script01_2_F016.wav",
+    "length": 8.76125,
+    "emo": "ang"
+  },
+  "Ses03M_script01_1_M007": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_script01_1/Ses03M_script01_1_M007.wav",
+    "length": 6.327875,
+    "emo": "sad"
+  },
+  "Ses03M_script02_1_M036": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_script02_1/Ses03M_script02_1_M036.wav",
+    "length": 5.92,
+    "emo": "hap"
+  },
+  "Ses03F_script02_2_F044": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script02_2/Ses03F_script02_2_F044.wav",
+    "length": 3.854,
+    "emo": "hap"
+  },
+  "Ses02M_script02_2_F018": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script02_2/Ses02M_script02_2_F018.wav",
+    "length": 8.1099375,
+    "emo": "sad"
+  },
+  "Ses02F_script03_2_M038": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_script03_2/Ses02F_script03_2_M038.wav",
+    "length": 1.25,
+    "emo": "ang"
+  },
+  "Ses02F_script01_3_M022": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_script01_3/Ses02F_script01_3_M022.wav",
+    "length": 2.33,
+    "emo": "sad"
+  },
+  "Ses02M_impro03_M026": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro03/Ses02M_impro03_M026.wav",
+    "length": 1.30175,
+    "emo": "hap"
+  },
+  "Ses05M_impro04_F003": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro04/Ses05M_impro04_F003.wav",
+    "length": 2.25,
+    "emo": "neu"
+  },
+  "Ses04M_script02_1_M012": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script02_1/Ses04M_script02_1_M012.wav",
+    "length": 1.86,
+    "emo": "neu"
+  },
+  "Ses02F_script03_1_F028": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_script03_1/Ses02F_script03_1_F028.wav",
+    "length": 7.3,
+    "emo": "hap"
+  },
+  "Ses02M_script03_1_F015": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script03_1/Ses02M_script03_1_F015.wav",
+    "length": 2.508,
+    "emo": "sad"
+  },
+  "Ses05F_impro05_M005": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro05/Ses05F_impro05_M005.wav",
+    "length": 4.684,
+    "emo": "neu"
+  },
+  "Ses04F_impro03_F045": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_F045.wav",
+    "length": 3.15475,
+    "emo": "hap"
+  },
+  "Ses05F_impro07_M016": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro07/Ses05F_impro07_M016.wav",
+    "length": 5.1299375,
+    "emo": "hap"
+  },
+  "Ses04M_script03_2_M022": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script03_2/Ses04M_script03_2_M022.wav",
+    "length": 2.61,
+    "emo": "ang"
+  },
+  "Ses02M_impro02_M001": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro02/Ses02M_impro02_M001.wav",
+    "length": 4.6655625,
+    "emo": "sad"
+  },
+  "Ses05F_impro04_M015": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro04/Ses05F_impro04_M015.wav",
+    "length": 7.2199375,
+    "emo": "neu"
+  },
+  "Ses02M_impro08_M016": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro08/Ses02M_impro08_M016.wav",
+    "length": 2.841375,
+    "emo": "neu"
+  },
+  "Ses02F_impro06_M003": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro06/Ses02F_impro06_M003.wav",
+    "length": 1.33,
+    "emo": "neu"
+  },
+  "Ses05M_script03_2_F023": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script03_2/Ses05M_script03_2_F023.wav",
+    "length": 1.86,
+    "emo": "neu"
+  },
+  "Ses04F_impro04_F015": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro04/Ses04F_impro04_F015.wav",
+    "length": 5.91,
+    "emo": "ang"
+  },
+  "Ses03M_script01_1_M017": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_script01_1/Ses03M_script01_1_M017.wav",
+    "length": 3.75975,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_F023": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_F023.wav",
+    "length": 1.92,
+    "emo": "ang"
+  },
+  "Ses03F_script03_2_F014": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script03_2/Ses03F_script03_2_F014.wav",
+    "length": 1.8999375,
+    "emo": "ang"
+  },
+  "Ses04F_impro01_F016": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro01/Ses04F_impro01_F016.wav",
+    "length": 4.4499375,
+    "emo": "ang"
+  },
+  "Ses05M_script03_2_F026": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script03_2/Ses05M_script03_2_F026.wav",
+    "length": 1.8399375,
+    "emo": "neu"
+  },
+  "Ses05M_impro03_M010": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro03/Ses05M_impro03_M010.wav",
+    "length": 11.156875,
+    "emo": "hap"
+  },
+  "Ses04F_script02_2_F033": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script02_2/Ses04F_script02_2_F033.wav",
+    "length": 3.6899375,
+    "emo": "ang"
+  },
+  "Ses03F_impro06_F025": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro06/Ses03F_impro06_F025.wav",
+    "length": 9.3896875,
+    "emo": "sad"
+  },
+  "Ses04F_impro03_F003": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_F003.wav",
+    "length": 3.5299375,
+    "emo": "hap"
+  },
+  "Ses05M_impro06_M004": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro06/Ses05M_impro06_M004.wav",
+    "length": 13.37,
+    "emo": "sad"
+  },
+  "Ses01M_impro01_M020": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro01/Ses01M_impro01_M020.wav",
+    "length": 3.62,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_F040": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_F040.wav",
+    "length": 18.43,
+    "emo": "ang"
+  },
+  "Ses05F_impro02_F024": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro02/Ses05F_impro02_F024.wav",
+    "length": 3.2199375,
+    "emo": "sad"
+  },
+  "Ses01F_script03_2_M038": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M038.wav",
+    "length": 2.0674375,
+    "emo": "ang"
+  },
+  "Ses01M_impro02_M020": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M020.wav",
+    "length": 2.0799375,
+    "emo": "sad"
+  },
+  "Ses05F_impro05_F005": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro05/Ses05F_impro05_F005.wav",
+    "length": 1.28,
+    "emo": "neu"
+  },
+  "Ses04F_script02_2_F005": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script02_2/Ses04F_script02_2_F005.wav",
+    "length": 8.1860625,
+    "emo": "ang"
+  },
+  "Ses02M_impro06_M003": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro06/Ses02M_impro06_M003.wav",
+    "length": 7.97,
+    "emo": "sad"
+  },
+  "Ses02F_impro08_M009": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro08/Ses02F_impro08_M009.wav",
+    "length": 6.289875,
+    "emo": "neu"
+  },
+  "Ses03F_script03_2_M015": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script03_2/Ses03F_script03_2_M015.wav",
+    "length": 1.6324375,
+    "emo": "ang"
+  },
+  "Ses05F_script03_1_F013": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_script03_1/Ses05F_script03_1_F013.wav",
+    "length": 1.49,
+    "emo": "neu"
+  },
+  "Ses03F_script01_1_M029": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script01_1/Ses03F_script01_1_M029.wav",
+    "length": 3.3211875,
+    "emo": "neu"
+  },
+  "Ses03M_impro03_M019": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro03/Ses03M_impro03_M019.wav",
+    "length": 2.46,
+    "emo": "hap"
+  },
+  "Ses05M_impro08_F007": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro08/Ses05M_impro08_F007.wav",
+    "length": 1.2,
+    "emo": "neu"
+  },
+  "Ses04F_script01_1_M030": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script01_1/Ses04F_script01_1_M030.wav",
+    "length": 1.72,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_F038": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_F038.wav",
+    "length": 5.4249375,
+    "emo": "ang"
+  },
+  "Ses05M_impro08_M018": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro08/Ses05M_impro08_M018.wav",
+    "length": 2.8,
+    "emo": "neu"
+  },
+  "Ses03M_impro08a_M003": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro08a/Ses03M_impro08a_M003.wav",
+    "length": 3.352125,
+    "emo": "neu"
+  },
+  "Ses02M_script02_1_F018": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script02_1/Ses02M_script02_1_F018.wav",
+    "length": 10.25,
+    "emo": "ang"
+  },
+  "Ses02M_script01_3_M033": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script01_3/Ses02M_script01_3_M033.wav",
+    "length": 22.52375,
+    "emo": "sad"
+  },
+  "Ses04F_impro07_F009": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_F009.wav",
+    "length": 2.3799375,
+    "emo": "hap"
+  },
+  "Ses05F_impro07_M033": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro07/Ses05F_impro07_M033.wav",
+    "length": 1.5099375,
+    "emo": "hap"
+  },
+  "Ses02F_impro07_M001": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro07/Ses02F_impro07_M001.wav",
+    "length": 2.9139375,
+    "emo": "hap"
+  },
+  "Ses05M_script01_3_F019": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script01_3/Ses05M_script01_3_F019.wav",
+    "length": 4.18,
+    "emo": "sad"
+  },
+  "Ses01M_script03_1_F031": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_F031.wav",
+    "length": 6.25,
+    "emo": "hap"
+  },
+  "Ses03F_script03_2_F015": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script03_2/Ses03F_script03_2_F015.wav",
+    "length": 1.3799375,
+    "emo": "ang"
+  },
+  "Ses04F_impro04_F014": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro04/Ses04F_impro04_F014.wav",
+    "length": 1.9599375,
+    "emo": "ang"
+  },
+  "Ses04M_script02_1_F002": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script02_1/Ses04M_script02_1_F002.wav",
+    "length": 1.93,
+    "emo": "ang"
+  },
+  "Ses03M_script01_1_F016": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_script01_1/Ses03M_script01_1_F016.wav",
+    "length": 8.8239375,
+    "emo": "ang"
+  },
+  "Ses04F_impro03_M037": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_M037.wav",
+    "length": 3.5099375,
+    "emo": "hap"
+  },
+  "Ses03F_script02_2_F031": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script02_2/Ses03F_script02_2_F031.wav",
+    "length": 2.10875,
+    "emo": "ang"
+  },
+  "Ses05F_impro03_F033": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro03/Ses05F_impro03_F033.wav",
+    "length": 1.99,
+    "emo": "hap"
+  },
+  "Ses01F_script01_1_M001": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_M001.wav",
+    "length": 3.3505625,
+    "emo": "neu"
+  },
+  "Ses05M_impro07_F038": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro07/Ses05M_impro07_F038.wav",
+    "length": 1.4099375,
+    "emo": "neu"
+  },
+  "Ses01M_impro07_M011": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M011.wav",
+    "length": 3.1375,
+    "emo": "hap"
+  },
+  "Ses03F_impro07_F025": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro07/Ses03F_impro07_F025.wav",
+    "length": 2.4028125,
+    "emo": "hap"
+  },
+  "Ses01M_impro06_F005": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_F005.wav",
+    "length": 2.0654375,
+    "emo": "sad"
+  },
+  "Ses04M_impro06_M013": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_impro06/Ses04M_impro06_M013.wav",
+    "length": 8.87,
+    "emo": "sad"
+  },
+  "Ses04F_script01_1_M029": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script01_1/Ses04F_script01_1_M029.wav",
+    "length": 2.2599375,
+    "emo": "ang"
+  },
+  "Ses01M_impro06_M015": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M015.wav",
+    "length": 5.0199375,
+    "emo": "sad"
+  },
+  "Ses01M_impro07_M008": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M008.wav",
+    "length": 4.8199375,
+    "emo": "hap"
+  },
+  "Ses02M_impro04_F011": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro04/Ses02M_impro04_F011.wav",
+    "length": 10.4906875,
+    "emo": "neu"
+  },
+  "Ses01F_script02_2_M048": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M048.wav",
+    "length": 7.0,
+    "emo": "neu"
+  },
+  "Ses02F_impro07_M006": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro07/Ses02F_impro07_M006.wav",
+    "length": 2.8899375,
+    "emo": "hap"
+  },
+  "Ses05F_script02_1_M003": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_script02_1/Ses05F_script02_1_M003.wav",
+    "length": 7.017125,
+    "emo": "hap"
+  },
+  "Ses02F_script03_1_F009": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_script03_1/Ses02F_script03_1_F009.wav",
+    "length": 3.67,
+    "emo": "hap"
+  },
+  "Ses03M_impro05b_F029": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro05b/Ses03M_impro05b_F029.wav",
+    "length": 2.8199375,
+    "emo": "neu"
+  },
+  "Ses04F_impro05_F012": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro05/Ses04F_impro05_F012.wav",
+    "length": 9.66,
+    "emo": "ang"
+  },
+  "Ses02M_script02_1_M015": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script02_1/Ses02M_script02_1_M015.wav",
+    "length": 4.79475,
+    "emo": "hap"
+  },
+  "Ses05F_impro04_M039": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro04/Ses05F_impro04_M039.wav",
+    "length": 11.92,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M031": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M031.wav",
+    "length": 2.8616875,
+    "emo": "neu"
+  },
+  "Ses01M_impro01_F012": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro01/Ses01M_impro01_F012.wav",
+    "length": 1.925,
+    "emo": "ang"
+  },
+  "Ses05F_impro06_F005": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro06/Ses05F_impro06_F005.wav",
+    "length": 1.36,
+    "emo": "sad"
+  },
+  "Ses05F_impro03_F027": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro03/Ses05F_impro03_F027.wav",
+    "length": 6.55,
+    "emo": "hap"
+  },
+  "Ses01M_impro02_M023": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M023.wav",
+    "length": 5.31,
+    "emo": "sad"
+  },
+  "Ses04M_script03_2_M047": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script03_2/Ses04M_script03_2_M047.wav",
+    "length": 2.2399375,
+    "emo": "ang"
+  },
+  "Ses03F_impro06_F027": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro06/Ses03F_impro06_F027.wav",
+    "length": 3.6490625,
+    "emo": "sad"
+  },
+  "Ses01F_impro02_F002": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_impro02/Ses01F_impro02_F002.wav",
+    "length": 5.7235,
+    "emo": "sad"
+  },
+  "Ses04F_impro07_F078": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_F078.wav",
+    "length": 3.0599375,
+    "emo": "hap"
+  },
+  "Ses05F_impro08_F020": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro08/Ses05F_impro08_F020.wav",
+    "length": 5.0299375,
+    "emo": "neu"
+  },
+  "Ses03M_impro07_F019": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro07/Ses03M_impro07_F019.wav",
+    "length": 2.34,
+    "emo": "hap"
+  },
+  "Ses03F_impro02_M021": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro02/Ses03F_impro02_M021.wav",
+    "length": 2.075,
+    "emo": "sad"
+  },
+  "Ses03F_impro07_M027": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro07/Ses03F_impro07_M027.wav",
+    "length": 1.1714375,
+    "emo": "hap"
+  },
+  "Ses01F_impro05_M020": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M020.wav",
+    "length": 1.33,
+    "emo": "neu"
+  },
+  "Ses03F_impro08_M012": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro08/Ses03F_impro08_M012.wav",
+    "length": 1.66,
+    "emo": "ang"
+  },
+  "Ses03M_script02_2_F041": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_script02_2/Ses03M_script02_2_F041.wav",
+    "length": 8.474625,
+    "emo": "sad"
+  },
+  "Ses05M_script03_2_F039": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script03_2/Ses05M_script03_2_F039.wav",
+    "length": 3.3199375,
+    "emo": "ang"
+  },
+  "Ses03M_impro08b_M019": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro08b/Ses03M_impro08b_M019.wav",
+    "length": 10.6875,
+    "emo": "neu"
+  },
+  "Ses02M_script01_1_F035": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script01_1/Ses02M_script01_1_F035.wav",
+    "length": 2.5899375,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_M002": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M002.wav",
+    "length": 4.3799375,
+    "emo": "neu"
+  },
+  "Ses04F_script01_3_M008": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script01_3/Ses04F_script01_3_M008.wav",
+    "length": 4.6945625,
+    "emo": "neu"
+  },
+  "Ses04M_script01_2_F014": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script01_2/Ses04M_script01_2_F014.wav",
+    "length": 5.4631875,
+    "emo": "ang"
+  },
+  "Ses05F_script03_1_M029": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_script03_1/Ses05F_script03_1_M029.wav",
+    "length": 4.1299375,
+    "emo": "hap"
+  },
+  "Ses01M_script02_1_M016": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M016.wav",
+    "length": 3.5199375,
+    "emo": "hap"
+  },
+  "Ses01F_impro03_M014": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_M014.wav",
+    "length": 3.5874375,
+    "emo": "hap"
+  },
+  "Ses04M_script01_2_F012": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script01_2/Ses04M_script01_2_F012.wav",
+    "length": 8.92,
+    "emo": "ang"
+  },
+  "Ses04F_impro06_M010": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro06/Ses04F_impro06_M010.wav",
+    "length": 2.3199375,
+    "emo": "sad"
+  },
+  "Ses01F_script02_2_M046": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M046.wav",
+    "length": 1.8901875,
+    "emo": "hap"
+  },
+  "Ses02M_impro08_M005": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro08/Ses02M_impro08_M005.wav",
+    "length": 2.3945625,
+    "emo": "neu"
+  },
+  "Ses05F_impro06_M005": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro06/Ses05F_impro06_M005.wav",
+    "length": 2.7599375,
+    "emo": "sad"
+  },
+  "Ses03M_script03_2_F039": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_script03_2/Ses03M_script03_2_F039.wav",
+    "length": 4.679,
+    "emo": "ang"
+  },
+  "Ses05F_impro04_M022": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro04/Ses05F_impro04_M022.wav",
+    "length": 3.9399375,
+    "emo": "neu"
+  },
+  "Ses02M_script03_2_M046": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script03_2/Ses02M_script03_2_M046.wav",
+    "length": 1.15775,
+    "emo": "ang"
+  },
+  "Ses01F_script01_3_M024": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M024.wav",
+    "length": 3.6899375,
+    "emo": "sad"
+  },
+  "Ses05M_impro07_F004": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro07/Ses05M_impro07_F004.wav",
+    "length": 1.8,
+    "emo": "hap"
+  },
+  "Ses01M_impro03_M007": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M007.wav",
+    "length": 8.0825,
+    "emo": "hap"
+  },
+  "Ses03F_script03_2_M039": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script03_2/Ses03F_script03_2_M039.wav",
+    "length": 3.9025,
+    "emo": "ang"
+  },
+  "Ses04F_impro07_F027": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_F027.wav",
+    "length": 2.09,
+    "emo": "hap"
+  },
+  "Ses03F_impro02_M025": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro02/Ses03F_impro02_M025.wav",
+    "length": 2.3,
+    "emo": "sad"
+  },
+  "Ses03F_impro03_F021": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro03/Ses03F_impro03_F021.wav",
+    "length": 5.8441875,
+    "emo": "hap"
+  },
+  "Ses05M_impro08_F014": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro08/Ses05M_impro08_F014.wav",
+    "length": 1.2599375,
+    "emo": "neu"
+  },
+  "Ses04M_impro04_M020": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_impro04/Ses04M_impro04_M020.wav",
+    "length": 3.0599375,
+    "emo": "neu"
+  },
+  "Ses05F_impro02_F032": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro02/Ses05F_impro02_F032.wav",
+    "length": 3.87,
+    "emo": "sad"
+  },
+  "Ses04F_impro07_F033": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_F033.wav",
+    "length": 1.4699375,
+    "emo": "hap"
+  },
+  "Ses03F_impro04_M005": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro04/Ses03F_impro04_M005.wav",
+    "length": 2.5605,
+    "emo": "neu"
+  },
+  "Ses05M_impro04_F017": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro04/Ses05M_impro04_F017.wav",
+    "length": 3.62,
+    "emo": "neu"
+  },
+  "Ses02F_impro04_M009": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro04/Ses02F_impro04_M009.wav",
+    "length": 5.7308125,
+    "emo": "neu"
+  },
+  "Ses03F_impro06_F018": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro06/Ses03F_impro06_F018.wav",
+    "length": 2.988875,
+    "emo": "sad"
+  },
+  "Ses02M_script01_1_F033": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script01_1/Ses02M_script01_1_F033.wav",
+    "length": 2.81,
+    "emo": "ang"
+  },
+  "Ses02F_script02_2_M021": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_script02_2/Ses02F_script02_2_M021.wav",
+    "length": 5.4199375,
+    "emo": "neu"
+  },
+  "Ses05M_impro07_F000": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro07/Ses05M_impro07_F000.wav",
+    "length": 1.2199375,
+    "emo": "hap"
+  },
+  "Ses04M_impro05_F017": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_impro05/Ses04M_impro05_F017.wav",
+    "length": 3.59475,
+    "emo": "neu"
+  },
+  "Ses03M_impro02_M000": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro02/Ses03M_impro02_M000.wav",
+    "length": 3.422375,
+    "emo": "sad"
+  },
+  "Ses05F_impro03_M013": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro03/Ses05F_impro03_M013.wav",
+    "length": 4.18,
+    "emo": "hap"
+  },
+  "Ses02M_script03_1_F027": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script03_1/Ses02M_script03_1_F027.wav",
+    "length": 7.8695625,
+    "emo": "hap"
+  },
+  "Ses05M_impro07_F044": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro07/Ses05M_impro07_F044.wav",
+    "length": 3.8199375,
+    "emo": "hap"
+  },
+  "Ses01M_impro05_M025": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_M025.wav",
+    "length": 6.99,
+    "emo": "ang"
+  },
+  "Ses03M_script02_1_M014": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_script02_1/Ses03M_script02_1_M014.wav",
+    "length": 7.8826875,
+    "emo": "hap"
+  },
+  "Ses04M_script03_2_M046": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script03_2/Ses04M_script03_2_M046.wav",
+    "length": 2.2,
+    "emo": "ang"
+  },
+  "Ses01M_script03_1_F010": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_F010.wav",
+    "length": 1.36,
+    "emo": "hap"
+  },
+  "Ses04M_impro05_M018": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_impro05/Ses04M_impro05_M018.wav",
+    "length": 4.2899375,
+    "emo": "ang"
+  },
+  "Ses04M_impro06_F001": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_impro06/Ses04M_impro06_F001.wav",
+    "length": 2.4699375,
+    "emo": "sad"
+  },
+  "Ses03M_impro03_M004": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro03/Ses03M_impro03_M004.wav",
+    "length": 3.72925,
+    "emo": "hap"
+  },
+  "Ses01M_impro07_F016": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_F016.wav",
+    "length": 6.2399375,
+    "emo": "hap"
+  },
+  "Ses02F_impro03_M014": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro03/Ses02F_impro03_M014.wav",
+    "length": 1.4399375,
+    "emo": "neu"
+  },
+  "Ses05M_script01_1_M016": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script01_1/Ses05M_script01_1_M016.wav",
+    "length": 1.4399375,
+    "emo": "neu"
+  },
+  "Ses04F_script03_2_M016": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script03_2/Ses04F_script03_2_M016.wav",
+    "length": 3.4829375,
+    "emo": "ang"
+  },
+  "Ses01M_impro02_F000": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_F000.wav",
+    "length": 3.39625,
+    "emo": "neu"
+  },
+  "Ses03M_impro06_M016": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro06/Ses03M_impro06_M016.wav",
+    "length": 4.6484375,
+    "emo": "sad"
+  },
+  "Ses02M_impro02_M000": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro02/Ses02M_impro02_M000.wav",
+    "length": 8.063375,
+    "emo": "sad"
+  },
+  "Ses05F_impro03_M041": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro03/Ses05F_impro03_M041.wav",
+    "length": 2.33,
+    "emo": "hap"
+  },
+  "Ses05M_script03_2_M034": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script03_2/Ses05M_script03_2_M034.wav",
+    "length": 2.49,
+    "emo": "ang"
+  },
+  "Ses03F_script01_1_F050": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script01_1/Ses03F_script01_1_F050.wav",
+    "length": 2.68225,
+    "emo": "neu"
+  },
+  "Ses04F_script03_2_M007": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script03_2/Ses04F_script03_2_M007.wav",
+    "length": 1.68,
+    "emo": "ang"
+  },
+  "Ses03M_script02_2_M020": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_script02_2/Ses03M_script02_2_M020.wav",
+    "length": 6.105375,
+    "emo": "neu"
+  },
+  "Ses04M_script03_2_F052": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script03_2/Ses04M_script03_2_F052.wav",
+    "length": 1.5299375,
+    "emo": "ang"
+  },
+  "Ses02M_script01_3_M026": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script01_3/Ses02M_script01_3_M026.wav",
+    "length": 3.0966875,
+    "emo": "sad"
+  },
+  "Ses05F_impro05_M006": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro05/Ses05F_impro05_M006.wav",
+    "length": 4.8633125,
+    "emo": "neu"
+  },
+  "Ses01M_impro04_M025": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro04/Ses01M_impro04_M025.wav",
+    "length": 1.5274375,
+    "emo": "neu"
+  },
+  "Ses01M_impro03_F017": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_F017.wav",
+    "length": 2.91,
+    "emo": "neu"
+  },
+  "Ses03F_script01_2_F006": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script01_2/Ses03F_script01_2_F006.wav",
+    "length": 4.5385,
+    "emo": "ang"
+  },
+  "Ses04F_script02_2_M046": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script02_2/Ses04F_script02_2_M046.wav",
+    "length": 4.09,
+    "emo": "hap"
+  },
+  "Ses02M_impro08_F002": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro08/Ses02M_impro08_F002.wav",
+    "length": 6.117875,
+    "emo": "hap"
+  },
+  "Ses04F_impro07_F000": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_F000.wav",
+    "length": 2.1299375,
+    "emo": "hap"
+  },
+  "Ses05F_script02_2_F027": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_script02_2/Ses05F_script02_2_F027.wav",
+    "length": 4.3774375,
+    "emo": "sad"
+  },
+  "Ses01F_impro02_F001": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_impro02/Ses01F_impro02_F001.wav",
+    "length": 2.93,
+    "emo": "sad"
+  },
+  "Ses03M_impro08a_M004": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro08a/Ses03M_impro08a_M004.wav",
+    "length": 5.462,
+    "emo": "neu"
+  },
+  "Ses04F_impro03_M042": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_M042.wav",
+    "length": 4.938125,
+    "emo": "hap"
+  },
+  "Ses05F_script03_2_M022": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_script03_2/Ses05F_script03_2_M022.wav",
+    "length": 1.0799375,
+    "emo": "ang"
+  },
+  "Ses05M_script03_1_M009": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script03_1/Ses05M_script03_1_M009.wav",
+    "length": 3.92,
+    "emo": "hap"
+  },
+  "Ses02M_impro05_F020": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro05/Ses02M_impro05_F020.wav",
+    "length": 2.7799375,
+    "emo": "neu"
+  },
+  "Ses01M_script03_2_F030": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_F030.wav",
+    "length": 3.5099375,
+    "emo": "ang"
+  },
+  "Ses02F_script02_1_M021": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_script02_1/Ses02F_script02_1_M021.wav",
+    "length": 6.7599375,
+    "emo": "neu"
+  },
+  "Ses02M_impro04_F015": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro04/Ses02M_impro04_F015.wav",
+    "length": 7.444625,
+    "emo": "neu"
+  },
+  "Ses02M_impro03_M011": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro03/Ses02M_impro03_M011.wav",
+    "length": 3.4,
+    "emo": "hap"
+  },
+  "Ses01M_impro01_F022": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro01/Ses01M_impro01_F022.wav",
+    "length": 10.6899375,
+    "emo": "ang"
+  },
+  "Ses05M_impro02_F021": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro02/Ses05M_impro02_F021.wav",
+    "length": 4.31,
+    "emo": "sad"
+  },
+  "Ses05M_impro03_F021": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro03/Ses05M_impro03_F021.wav",
+    "length": 4.22625,
+    "emo": "hap"
+  },
+  "Ses05F_impro08_F030": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro08/Ses05F_impro08_F030.wav",
+    "length": 2.2,
+    "emo": "neu"
+  },
+  "Ses03F_impro02_M007": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro02/Ses03F_impro02_M007.wav",
+    "length": 3.2125,
+    "emo": "ang"
+  },
+  "Ses02M_impro08_M022": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro08/Ses02M_impro08_M022.wav",
+    "length": 1.6320625,
+    "emo": "neu"
+  },
+  "Ses03F_impro02_F026": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro02/Ses03F_impro02_F026.wav",
+    "length": 2.2899375,
+    "emo": "sad"
+  },
+  "Ses04M_script02_2_F028": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script02_2/Ses04M_script02_2_F028.wav",
+    "length": 4.37,
+    "emo": "ang"
+  },
+  "Ses03M_impro08a_M023": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro08a/Ses03M_impro08a_M023.wav",
+    "length": 3.983125,
+    "emo": "neu"
+  },
+  "Ses04F_impro01_M021": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro01/Ses04F_impro01_M021.wav",
+    "length": 2.72,
+    "emo": "ang"
+  },
+  "Ses03F_impro04_M010": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro04/Ses03F_impro04_M010.wav",
+    "length": 5.301,
+    "emo": "neu"
+  },
+  "Ses05F_impro07_M001": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro07/Ses05F_impro07_M001.wav",
+    "length": 2.93,
+    "emo": "hap"
+  },
+  "Ses01F_script03_1_M009": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_script03_1/Ses01F_script03_1_M009.wav",
+    "length": 2.05,
+    "emo": "hap"
+  },
+  "Ses01M_impro06_M026": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M026.wav",
+    "length": 2.922125,
+    "emo": "sad"
+  },
+  "Ses03F_script03_2_M042": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script03_2/Ses03F_script03_2_M042.wav",
+    "length": 5.3425,
+    "emo": "ang"
+  },
+  "Ses01F_script02_1_M014": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M014.wav",
+    "length": 10.4878125,
+    "emo": "neu"
+  },
+  "Ses01M_impro05_M023": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_M023.wav",
+    "length": 6.5099375,
+    "emo": "ang"
+  },
+  "Ses05M_impro08_M004": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro08/Ses05M_impro08_M004.wav",
+    "length": 2.17,
+    "emo": "neu"
+  },
+  "Ses02F_impro08_F000": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro08/Ses02F_impro08_F000.wav",
+    "length": 4.29625,
+    "emo": "neu"
+  },
+  "Ses04F_impro03_M038": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_M038.wav",
+    "length": 3.31,
+    "emo": "hap"
+  },
+  "Ses05F_script01_2_M017": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_script01_2/Ses05F_script01_2_M017.wav",
+    "length": 4.86,
+    "emo": "ang"
+  },
+  "Ses03F_script02_1_M020": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script02_1/Ses03F_script02_1_M020.wav",
+    "length": 2.334,
+    "emo": "neu"
+  },
+  "Ses02F_impro08_F005": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro08/Ses02F_impro08_F005.wav",
+    "length": 8.114625,
+    "emo": "neu"
+  },
+  "Ses02F_impro04_M001": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro04/Ses02F_impro04_M001.wav",
+    "length": 6.29025,
+    "emo": "neu"
+  },
+  "Ses05F_impro05_M012": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro05/Ses05F_impro05_M012.wav",
+    "length": 1.7599375,
+    "emo": "neu"
+  },
+  "Ses05M_script01_1_M011": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script01_1/Ses05M_script01_1_M011.wav",
+    "length": 11.0599375,
+    "emo": "ang"
+  },
+  "Ses04M_script03_2_M013": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script03_2/Ses04M_script03_2_M013.wav",
+    "length": 2.74225,
+    "emo": "ang"
+  },
+  "Ses04F_impro04_M007": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro04/Ses04F_impro04_M007.wav",
+    "length": 1.93,
+    "emo": "neu"
+  },
+  "Ses03F_impro02_F010": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro02/Ses03F_impro02_F010.wav",
+    "length": 1.8199375,
+    "emo": "sad"
+  },
+  "Ses02M_impro08_F010": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro08/Ses02M_impro08_F010.wav",
+    "length": 7.902125,
+    "emo": "neu"
+  },
+  "Ses02F_script01_2_M005": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_script01_2/Ses02F_script01_2_M005.wav",
+    "length": 1.72,
+    "emo": "neu"
+  },
+  "Ses04F_script03_2_M034": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script03_2/Ses04F_script03_2_M034.wav",
+    "length": 2.4099375,
+    "emo": "ang"
+  },
+  "Ses03F_impro05_M008": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro05/Ses03F_impro05_M008.wav",
+    "length": 6.7471875,
+    "emo": "neu"
+  },
+  "Ses04F_script01_3_M027": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script01_3/Ses04F_script01_3_M027.wav",
+    "length": 3.6516875,
+    "emo": "sad"
+  },
+  "Ses02F_impro05_M014": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro05/Ses02F_impro05_M014.wav",
+    "length": 7.05,
+    "emo": "neu"
+  },
+  "Ses04F_impro03_F010": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_F010.wav",
+    "length": 9.5,
+    "emo": "hap"
+  },
+  "Ses04M_script02_1_M008": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script02_1/Ses04M_script02_1_M008.wav",
+    "length": 4.68,
+    "emo": "hap"
+  },
+  "Ses02M_script02_1_M029": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script02_1/Ses02M_script02_1_M029.wav",
+    "length": 7.81,
+    "emo": "hap"
+  },
+  "Ses01F_impro03_F013": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_F013.wav",
+    "length": 5.1299375,
+    "emo": "hap"
+  },
+  "Ses01F_script02_2_F036": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_F036.wav",
+    "length": 2.17,
+    "emo": "sad"
+  },
+  "Ses05F_impro04_M004": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro04/Ses05F_impro04_M004.wav",
+    "length": 1.9599375,
+    "emo": "neu"
+  },
+  "Ses03F_impro02_F040": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro02/Ses03F_impro02_F040.wav",
+    "length": 1.5849375,
+    "emo": "sad"
+  },
+  "Ses02F_impro07_F006": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro07/Ses02F_impro07_F006.wav",
+    "length": 1.9016875,
+    "emo": "hap"
+  },
+  "Ses04M_impro01_M024": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_impro01/Ses04M_impro01_M024.wav",
+    "length": 4.0199375,
+    "emo": "ang"
+  },
+  "Ses04M_impro03_M030": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_impro03/Ses04M_impro03_M030.wav",
+    "length": 6.5699375,
+    "emo": "hap"
+  },
+  "Ses03M_impro03_M013": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro03/Ses03M_impro03_M013.wav",
+    "length": 3.4993125,
+    "emo": "hap"
+  },
+  "Ses02M_impro06_F017": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro06/Ses02M_impro06_F017.wav",
+    "length": 2.037875,
+    "emo": "sad"
+  },
+  "Ses02M_impro06_M005": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro06/Ses02M_impro06_M005.wav",
+    "length": 9.3499375,
+    "emo": "sad"
+  },
+  "Ses03F_script01_1_M021": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script01_1/Ses03F_script01_1_M021.wav",
+    "length": 4.1875625,
+    "emo": "ang"
+  },
+  "Ses03F_script01_3_M041": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script01_3/Ses03F_script01_3_M041.wav",
+    "length": 4.3320625,
+    "emo": "sad"
+  },
+  "Ses05M_script03_2_F028": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script03_2/Ses05M_script03_2_F028.wav",
+    "length": 2.8799375,
+    "emo": "ang"
+  },
+  "Ses01M_script02_2_M052": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M052.wav",
+    "length": 2.764,
+    "emo": "hap"
+  },
+  "Ses05M_script02_1_M029": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script02_1/Ses05M_script02_1_M029.wav",
+    "length": 8.25,
+    "emo": "hap"
+  },
+  "Ses05M_script03_1_M022": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script03_1/Ses05M_script03_1_M022.wav",
+    "length": 17.388375,
+    "emo": "hap"
+  },
+  "Ses02F_script03_2_M046": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_script03_2/Ses02F_script03_2_M046.wav",
+    "length": 2.85,
+    "emo": "ang"
+  },
+  "Ses02M_script03_2_M042": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script03_2/Ses02M_script03_2_M042.wav",
+    "length": 6.476375,
+    "emo": "ang"
+  },
+  "Ses02M_script01_2_M004": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script01_2/Ses02M_script01_2_M004.wav",
+    "length": 2.18,
+    "emo": "neu"
+  },
+  "Ses05F_impro07_M020": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro07/Ses05F_impro07_M020.wav",
+    "length": 6.0299375,
+    "emo": "hap"
+  },
+  "Ses05F_script03_2_F019": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_script03_2/Ses05F_script03_2_F019.wav",
+    "length": 2.1899375,
+    "emo": "ang"
+  },
+  "Ses02F_script01_2_F012": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_script01_2/Ses02F_script01_2_F012.wav",
+    "length": 5.2399375,
+    "emo": "ang"
+  },
+  "Ses05M_impro03_M021": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro03/Ses05M_impro03_M021.wav",
+    "length": 1.1199375,
+    "emo": "hap"
+  },
+  "Ses01F_impro05_F026": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_F026.wav",
+    "length": 1.4875,
+    "emo": "ang"
+  },
+  "Ses01F_script02_1_M011": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M011.wav",
+    "length": 6.7215625,
+    "emo": "neu"
+  },
+  "Ses03M_script01_2_M017": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_script01_2/Ses03M_script01_2_M017.wav",
+    "length": 5.991625,
+    "emo": "ang"
+  },
+  "Ses03F_script01_1_M005": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script01_1/Ses03F_script01_1_M005.wav",
+    "length": 3.229625,
+    "emo": "neu"
+  },
+  "Ses04F_impro01_F009": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro01/Ses04F_impro01_F009.wav",
+    "length": 7.013375,
+    "emo": "ang"
+  },
+  "Ses04F_script02_2_F041": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script02_2/Ses04F_script02_2_F041.wav",
+    "length": 3.6813125,
+    "emo": "sad"
+  },
+  "Ses02M_script02_2_F031": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script02_2/Ses02M_script02_2_F031.wav",
+    "length": 5.31,
+    "emo": "sad"
+  },
+  "Ses03F_script03_2_F013": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script03_2/Ses03F_script03_2_F013.wav",
+    "length": 2.1424375,
+    "emo": "neu"
+  },
+  "Ses03M_impro04_F025": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro04/Ses03M_impro04_F025.wav",
+    "length": 5.9599375,
+    "emo": "neu"
+  },
+  "Ses02F_script01_3_F016": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_script01_3/Ses02F_script01_3_F016.wav",
+    "length": 8.6,
+    "emo": "hap"
+  },
+  "Ses01M_impro03_M022": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M022.wav",
+    "length": 9.7799375,
+    "emo": "hap"
+  },
+  "Ses05M_impro06_F009": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro06/Ses05M_impro06_F009.wav",
+    "length": 4.4799375,
+    "emo": "sad"
+  },
+  "Ses01F_impro05_M005": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M005.wav",
+    "length": 4.0599375,
+    "emo": "neu"
+  },
+  "Ses04F_script01_1_F019": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script01_1/Ses04F_script01_1_F019.wav",
+    "length": 3.6499375,
+    "emo": "ang"
+  },
+  "Ses01M_script02_2_F000": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_F000.wav",
+    "length": 2.3363125,
+    "emo": "neu"
+  },
+  "Ses03M_script02_2_F031": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_script02_2/Ses03M_script02_2_F031.wav",
+    "length": 4.4195625,
+    "emo": "ang"
+  },
+  "Ses01M_impro03_F007": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_F007.wav",
+    "length": 4.33,
+    "emo": "hap"
+  },
+  "Ses04F_impro05_F011": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro05/Ses04F_impro05_F011.wav",
+    "length": 16.61,
+    "emo": "ang"
+  },
+  "Ses04M_script03_2_M050": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script03_2/Ses04M_script03_2_M050.wav",
+    "length": 5.2,
+    "emo": "ang"
+  },
+  "Ses02F_impro03_F017": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro03/Ses02F_impro03_F017.wav",
+    "length": 6.4256875,
+    "emo": "hap"
+  },
+  "Ses01F_impro03_F005": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_F005.wav",
+    "length": 2.581625,
+    "emo": "hap"
+  },
+  "Ses05F_impro03_M038": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro03/Ses05F_impro03_M038.wav",
+    "length": 1.8999375,
+    "emo": "hap"
+  },
+  "Ses05F_impro06_F025": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro06/Ses05F_impro06_F025.wav",
+    "length": 1.85,
+    "emo": "sad"
+  },
+  "Ses05M_impro02_F012": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro02/Ses05M_impro02_F012.wav",
+    "length": 3.2599375,
+    "emo": "neu"
+  },
+  "Ses05F_impro01_F017": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro01/Ses05F_impro01_F017.wav",
+    "length": 6.0199375,
+    "emo": "ang"
+  },
+  "Ses02F_impro03_M018": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro03/Ses02F_impro03_M018.wav",
+    "length": 3.86,
+    "emo": "neu"
+  },
+  "Ses05F_impro08_F029": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro08/Ses05F_impro08_F029.wav",
+    "length": 1.2099375,
+    "emo": "neu"
+  },
+  "Ses04F_impro07_M035": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_M035.wav",
+    "length": 4.5099375,
+    "emo": "neu"
+  },
+  "Ses02M_script02_2_F021": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script02_2/Ses02M_script02_2_F021.wav",
+    "length": 0.9499375,
+    "emo": "sad"
+  },
+  "Ses05F_impro02_F027": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro02/Ses05F_impro02_F027.wav",
+    "length": 1.7599375,
+    "emo": "sad"
+  },
+  "Ses04M_impro01_F019": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_impro01/Ses04M_impro01_F019.wav",
+    "length": 4.4321875,
+    "emo": "ang"
+  },
+  "Ses03M_script02_2_M022": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_script02_2/Ses03M_script02_2_M022.wav",
+    "length": 2.0324375,
+    "emo": "neu"
+  },
+  "Ses01F_impro01_F012": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_impro01/Ses01F_impro01_F012.wav",
+    "length": 2.75,
+    "emo": "ang"
+  },
+  "Ses03F_impro03_M010": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro03/Ses03F_impro03_M010.wav",
+    "length": 1.3465625,
+    "emo": "hap"
+  },
+  "Ses01M_script01_3_M039": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M039.wav",
+    "length": 8.0291875,
+    "emo": "sad"
+  },
+  "Ses03M_impro08b_M006": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro08b/Ses03M_impro08b_M006.wav",
+    "length": 2.5199375,
+    "emo": "neu"
+  },
+  "Ses04F_impro03_F016": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_F016.wav",
+    "length": 1.66,
+    "emo": "hap"
+  },
+  "Ses02M_impro07_M002": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro07/Ses02M_impro07_M002.wav",
+    "length": 1.49375,
+    "emo": "hap"
+  },
+  "Ses04F_impro07_M031": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_M031.wav",
+    "length": 2.79,
+    "emo": "neu"
+  },
+  "Ses05F_script02_1_F000": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_script02_1/Ses05F_script02_1_F000.wav",
+    "length": 1.8450625,
+    "emo": "neu"
+  },
+  "Ses04F_script01_1_F015": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script01_1/Ses04F_script01_1_F015.wav",
+    "length": 6.4799375,
+    "emo": "ang"
+  },
+  "Ses05F_impro05_M034": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro05/Ses05F_impro05_M034.wav",
+    "length": 2.8899375,
+    "emo": "neu"
+  },
+  "Ses03M_impro05b_F008": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro05b/Ses03M_impro05b_F008.wav",
+    "length": 2.725,
+    "emo": "neu"
+  },
+  "Ses01F_script03_2_M023": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M023.wav",
+    "length": 3.72,
+    "emo": "ang"
+  },
+  "Ses05M_script03_2_F017": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script03_2/Ses05M_script03_2_F017.wav",
+    "length": 1.4199375,
+    "emo": "ang"
+  },
+  "Ses02F_impro03_M009": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro03/Ses02F_impro03_M009.wav",
+    "length": 4.80375,
+    "emo": "hap"
+  },
+  "Ses03M_script01_3_M036": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_script01_3/Ses03M_script01_3_M036.wav",
+    "length": 12.6734375,
+    "emo": "sad"
+  },
+  "Ses01M_script02_2_M041": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M041.wav",
+    "length": 3.0069375,
+    "emo": "sad"
+  },
+  "Ses05F_impro08_M018": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro08/Ses05F_impro08_M018.wav",
+    "length": 1.25,
+    "emo": "neu"
+  },
+  "Ses03M_impro05a_M017": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro05a/Ses03M_impro05a_M017.wav",
+    "length": 3.1099375,
+    "emo": "ang"
+  },
+  "Ses02F_script01_2_M016": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_script01_2/Ses02F_script01_2_M016.wav",
+    "length": 2.5,
+    "emo": "ang"
+  },
+  "Ses03M_script02_2_F001": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_script02_2/Ses03M_script02_2_F001.wav",
+    "length": 2.1709375,
+    "emo": "ang"
+  },
+  "Ses02F_impro05_M001": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro05/Ses02F_impro05_M001.wav",
+    "length": 8.5799375,
+    "emo": "neu"
+  },
+  "Ses01M_script01_1_M034": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_M034.wav",
+    "length": 4.3,
+    "emo": "ang"
+  },
+  "Ses05M_impro04_F011": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro04/Ses05M_impro04_F011.wav",
+    "length": 4.5,
+    "emo": "neu"
+  },
+  "Ses04F_script02_1_M034": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script02_1/Ses04F_script02_1_M034.wav",
+    "length": 9.54875,
+    "emo": "hap"
+  },
+  "Ses05M_script03_1_M003": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script03_1/Ses05M_script03_1_M003.wav",
+    "length": 3.05,
+    "emo": "neu"
+  },
+  "Ses03F_script02_2_M039": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script02_2/Ses03F_script02_2_M039.wav",
+    "length": 7.2231875,
+    "emo": "hap"
+  },
+  "Ses05M_impro08_F012": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro08/Ses05M_impro08_F012.wav",
+    "length": 1.4499375,
+    "emo": "neu"
+  },
+  "Ses02M_impro08_M030": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro08/Ses02M_impro08_M030.wav",
+    "length": 4.0955,
+    "emo": "neu"
+  },
+  "Ses03M_impro03_F006": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro03/Ses03M_impro03_F006.wav",
+    "length": 5.773375,
+    "emo": "hap"
+  },
+  "Ses03M_impro06_M015": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro06/Ses03M_impro06_M015.wav",
+    "length": 4.8675,
+    "emo": "sad"
+  },
+  "Ses03F_impro04_M016": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro04/Ses03F_impro04_M016.wav",
+    "length": 2.687625,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_F029": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_F029.wav",
+    "length": 3.1599375,
+    "emo": "ang"
+  },
+  "Ses05F_impro08_F025": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro08/Ses05F_impro08_F025.wav",
+    "length": 1.0299375,
+    "emo": "neu"
+  },
+  "Ses04F_script03_1_M009": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script03_1/Ses04F_script03_1_M009.wav",
+    "length": 2.0799375,
+    "emo": "neu"
+  },
+  "Ses03F_impro02_F011": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro02/Ses03F_impro02_F011.wav",
+    "length": 4.4025,
+    "emo": "sad"
+  },
+  "Ses03F_script03_2_F026": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script03_2/Ses03F_script03_2_F026.wav",
+    "length": 3.79,
+    "emo": "ang"
+  },
+  "Ses04F_impro07_F064": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_F064.wav",
+    "length": 1.8525625,
+    "emo": "hap"
+  },
+  "Ses04F_impro03_F002": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_F002.wav",
+    "length": 1.5199375,
+    "emo": "hap"
+  },
+  "Ses05M_impro05_F013": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro05/Ses05M_impro05_F013.wav",
+    "length": 6.8,
+    "emo": "neu"
+  },
+  "Ses01F_impro03_M006": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_M006.wav",
+    "length": 2.09,
+    "emo": "neu"
+  },
+  "Ses01M_impro03_M024": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M024.wav",
+    "length": 1.46,
+    "emo": "hap"
+  },
+  "Ses05F_script01_3_M028": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_script01_3/Ses05F_script01_3_M028.wav",
+    "length": 12.2785625,
+    "emo": "sad"
+  },
+  "Ses03M_impro08a_M019": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro08a/Ses03M_impro08a_M019.wav",
+    "length": 9.8198125,
+    "emo": "neu"
+  },
+  "Ses01M_script01_1_F043": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_F043.wav",
+    "length": 3.151,
+    "emo": "ang"
+  },
+  "Ses02M_script03_1_M019": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script03_1/Ses02M_script03_1_M019.wav",
+    "length": 6.052375,
+    "emo": "hap"
+  },
+  "Ses04M_impro07_F013": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_impro07/Ses04M_impro07_F013.wav",
+    "length": 2.54,
+    "emo": "hap"
+  },
+  "Ses01M_script02_1_M041": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M041.wav",
+    "length": 8.845,
+    "emo": "hap"
+  },
+  "Ses04F_impro03_M041": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_M041.wav",
+    "length": 2.42175,
+    "emo": "hap"
+  },
+  "Ses02F_script03_1_M025": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_script03_1/Ses02F_script03_1_M025.wav",
+    "length": 2.6708125,
+    "emo": "neu"
+  },
+  "Ses02F_script02_1_M013": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_script02_1/Ses02F_script02_1_M013.wav",
+    "length": 5.55,
+    "emo": "neu"
+  },
+  "Ses05F_impro07_M027": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro07/Ses05F_impro07_M027.wav",
+    "length": 3.54,
+    "emo": "hap"
+  },
+  "Ses05M_impro05_M003": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro05/Ses05M_impro05_M003.wav",
+    "length": 2.8999375,
+    "emo": "neu"
+  },
+  "Ses04F_impro03_M047": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_M047.wav",
+    "length": 5.98,
+    "emo": "neu"
+  },
+  "Ses04F_script01_3_M014": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script01_3/Ses04F_script01_3_M014.wav",
+    "length": 3.271,
+    "emo": "neu"
+  },
+  "Ses05M_script02_1_M018": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script02_1/Ses05M_script02_1_M018.wav",
+    "length": 9.2820625,
+    "emo": "hap"
+  },
+  "Ses04M_impro07_F027": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_impro07/Ses04M_impro07_F027.wav",
+    "length": 3.9461875,
+    "emo": "hap"
+  },
+  "Ses03M_impro04_M026": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro04/Ses03M_impro04_M026.wav",
+    "length": 1.5199375,
+    "emo": "sad"
+  },
+  "Ses05M_script03_2_F015": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script03_2/Ses05M_script03_2_F015.wav",
+    "length": 2.8,
+    "emo": "neu"
+  },
+  "Ses05F_impro03_F040": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro03/Ses05F_impro03_F040.wav",
+    "length": 1.6499375,
+    "emo": "hap"
+  },
+  "Ses04F_script01_1_F013": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script01_1/Ses04F_script01_1_F013.wav",
+    "length": 3.0599375,
+    "emo": "ang"
+  },
+  "Ses02M_script01_2_M017": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script01_2/Ses02M_script01_2_M017.wav",
+    "length": 2.7099375,
+    "emo": "ang"
+  },
+  "Ses05M_script01_3_M042": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script01_3/Ses05M_script01_3_M042.wav",
+    "length": 2.75,
+    "emo": "hap"
+  },
+  "Ses03M_script03_2_F024": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_script03_2/Ses03M_script03_2_F024.wav",
+    "length": 2.580125,
+    "emo": "ang"
+  },
+  "Ses04M_script03_2_F014": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script03_2/Ses04M_script03_2_F014.wav",
+    "length": 1.902375,
+    "emo": "ang"
+  },
+  "Ses02F_script03_1_F015": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_script03_1/Ses02F_script03_1_F015.wav",
+    "length": 3.23,
+    "emo": "neu"
+  },
+  "Ses04F_script01_1_F023": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script01_1/Ses04F_script01_1_F023.wav",
+    "length": 5.5331875,
+    "emo": "ang"
+  },
+  "Ses02M_script03_2_F041": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script03_2/Ses02M_script03_2_F041.wav",
+    "length": 11.4324375,
+    "emo": "ang"
+  },
+  "Ses03M_impro05b_F004": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro05b/Ses03M_impro05b_F004.wav",
+    "length": 1.7599375,
+    "emo": "neu"
+  },
+  "Ses02M_script02_1_M040": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script02_1/Ses02M_script02_1_M040.wav",
+    "length": 11.5299375,
+    "emo": "hap"
+  },
+  "Ses03F_script01_3_F018": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script01_3/Ses03F_script01_3_F018.wav",
+    "length": 2.075,
+    "emo": "hap"
+  },
+  "Ses04M_script02_2_M040": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script02_2/Ses04M_script02_2_M040.wav",
+    "length": 6.79,
+    "emo": "hap"
+  },
+  "Ses05M_script03_2_F009": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script03_2/Ses05M_script03_2_F009.wav",
+    "length": 1.6399375,
+    "emo": "neu"
+  },
+  "Ses02M_impro07_F009": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro07/Ses02M_impro07_F009.wav",
+    "length": 1.4031875,
+    "emo": "hap"
+  },
+  "Ses03F_script01_3_M046": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script01_3/Ses03F_script01_3_M046.wav",
+    "length": 3.3105,
+    "emo": "hap"
+  },
+  "Ses04F_script03_1_M007": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script03_1/Ses04F_script03_1_M007.wav",
+    "length": 1.74,
+    "emo": "hap"
+  },
+  "Ses03M_impro04_F030": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro04/Ses03M_impro04_F030.wav",
+    "length": 3.0799375,
+    "emo": "neu"
+  },
+  "Ses01M_impro06_F006": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_F006.wav",
+    "length": 2.528375,
+    "emo": "sad"
+  },
+  "Ses01M_script02_2_M039": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M039.wav",
+    "length": 1.385,
+    "emo": "neu"
+  },
+  "Ses02M_script03_2_M011": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script03_2/Ses02M_script03_2_M011.wav",
+    "length": 4.2150625,
+    "emo": "neu"
+  },
+  "Ses05F_impro06_M022": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro06/Ses05F_impro06_M022.wav",
+    "length": 12.81,
+    "emo": "neu"
+  },
+  "Ses04F_impro04_M013": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro04/Ses04F_impro04_M013.wav",
+    "length": 3.81,
+    "emo": "neu"
+  },
+  "Ses04F_script01_3_M011": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script01_3/Ses04F_script01_3_M011.wav",
+    "length": 4.847375,
+    "emo": "hap"
+  },
+  "Ses05M_impro04_F026": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro04/Ses05M_impro04_F026.wav",
+    "length": 7.0799375,
+    "emo": "neu"
+  },
+  "Ses01M_script03_1_F037": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_F037.wav",
+    "length": 4.6899375,
+    "emo": "hap"
+  },
+  "Ses02F_script02_1_M028": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_script02_1/Ses02F_script02_1_M028.wav",
+    "length": 8.4,
+    "emo": "hap"
+  },
+  "Ses04M_script01_3_F013": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script01_3/Ses04M_script01_3_F013.wav",
+    "length": 8.05,
+    "emo": "hap"
+  },
+  "Ses02M_script03_1_F023": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script03_1/Ses02M_script03_1_F023.wav",
+    "length": 6.7281875,
+    "emo": "hap"
+  },
+  "Ses02F_impro02_F012": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro02/Ses02F_impro02_F012.wav",
+    "length": 6.2883125,
+    "emo": "sad"
+  },
+  "Ses01F_script03_2_F027": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_F027.wav",
+    "length": 1.9768125,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_F035": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_F035.wav",
+    "length": 3.9375,
+    "emo": "ang"
+  },
+  "Ses04F_impro01_F008": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro01/Ses04F_impro01_F008.wav",
+    "length": 4.1,
+    "emo": "ang"
+  },
+  "Ses01F_impro05_F008": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_F008.wav",
+    "length": 2.1199375,
+    "emo": "ang"
+  },
+  "Ses03F_impro08_F024": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro08/Ses03F_impro08_F024.wav",
+    "length": 2.3199375,
+    "emo": "neu"
+  },
+  "Ses03M_script01_3_M046": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_script01_3/Ses03M_script01_3_M046.wav",
+    "length": 2.004875,
+    "emo": "hap"
+  },
+  "Ses03M_impro05a_F007": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro05a/Ses03M_impro05a_F007.wav",
+    "length": 4.49,
+    "emo": "neu"
+  },
+  "Ses04F_script03_2_M006": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script03_2/Ses04F_script03_2_M006.wav",
+    "length": 1.97,
+    "emo": "ang"
+  },
+  "Ses04M_script03_2_F037": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script03_2/Ses04M_script03_2_F037.wav",
+    "length": 4.0799375,
+    "emo": "ang"
+  },
+  "Ses01M_impro02_M000": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M000.wav",
+    "length": 3.30175,
+    "emo": "neu"
+  },
+  "Ses03M_impro02_F016": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro02/Ses03M_impro02_F016.wav",
+    "length": 2.8473125,
+    "emo": "sad"
+  },
+  "Ses05M_impro07_M022": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro07/Ses05M_impro07_M022.wav",
+    "length": 7.1199375,
+    "emo": "hap"
+  },
+  "Ses04F_script02_2_M000": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script02_2/Ses04F_script02_2_M000.wav",
+    "length": 2.9499375,
+    "emo": "neu"
+  },
+  "Ses04M_impro06_M006": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_impro06/Ses04M_impro06_M006.wav",
+    "length": 6.3199375,
+    "emo": "sad"
+  },
+  "Ses01F_script02_1_M002": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M002.wav",
+    "length": 3.0399375,
+    "emo": "hap"
+  },
+  "Ses01M_impro07_M013": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M013.wav",
+    "length": 11.6899375,
+    "emo": "hap"
+  },
+  "Ses01M_script03_2_F026": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_F026.wav",
+    "length": 3.75,
+    "emo": "ang"
+  },
+  "Ses03M_impro02_M019": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro02/Ses03M_impro02_M019.wav",
+    "length": 2.3971875,
+    "emo": "sad"
+  },
+  "Ses05M_impro07_F042": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro07/Ses05M_impro07_F042.wav",
+    "length": 4.98,
+    "emo": "hap"
+  },
+  "Ses04F_impro08_F023": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro08/Ses04F_impro08_F023.wav",
+    "length": 2.3899375,
+    "emo": "ang"
+  },
+  "Ses04F_impro03_F007": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_F007.wav",
+    "length": 10.93,
+    "emo": "hap"
+  },
+  "Ses03F_impro06_F017": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro06/Ses03F_impro06_F017.wav",
+    "length": 2.8480625,
+    "emo": "sad"
+  },
+  "Ses03M_impro06_M021": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro06/Ses03M_impro06_M021.wav",
+    "length": 4.9891875,
+    "emo": "sad"
+  },
+  "Ses03F_impro07_F026": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro07/Ses03F_impro07_F026.wav",
+    "length": 8.1565,
+    "emo": "hap"
+  },
+  "Ses02M_impro07_F018": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro07/Ses02M_impro07_F018.wav",
+    "length": 8.0246875,
+    "emo": "hap"
+  },
+  "Ses04F_impro04_M028": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro04/Ses04F_impro04_M028.wav",
+    "length": 2.8299375,
+    "emo": "neu"
+  },
+  "Ses04F_impro04_M026": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro04/Ses04F_impro04_M026.wav",
+    "length": 4.7699375,
+    "emo": "neu"
+  },
+  "Ses01F_script01_1_F015": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_F015.wav",
+    "length": 4.4914375,
+    "emo": "neu"
+  },
+  "Ses02M_script02_1_M006": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script02_1/Ses02M_script02_1_M006.wav",
+    "length": 8.86,
+    "emo": "hap"
+  },
+  "Ses05F_impro07_F001": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro07/Ses05F_impro07_F001.wav",
+    "length": 2.79,
+    "emo": "hap"
+  },
+  "Ses05F_script03_1_M015": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_script03_1/Ses05F_script03_1_M015.wav",
+    "length": 1.5199375,
+    "emo": "hap"
+  },
+  "Ses02M_impro01_F004": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro01/Ses02M_impro01_F004.wav",
+    "length": 1.6419375,
+    "emo": "neu"
+  },
+  "Ses04M_impro07_M021": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_impro07/Ses04M_impro07_M021.wav",
+    "length": 5.103625,
+    "emo": "hap"
+  },
+  "Ses01F_impro06_F022": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_impro06/Ses01F_impro06_F022.wav",
+    "length": 4.91,
+    "emo": "sad"
+  },
+  "Ses04M_script03_1_F008": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script03_1/Ses04M_script03_1_F008.wav",
+    "length": 3.25,
+    "emo": "hap"
+  },
+  "Ses05F_script01_3_M036": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_script01_3/Ses05F_script01_3_M036.wav",
+    "length": 12.999375,
+    "emo": "sad"
+  },
+  "Ses03M_script03_2_M006": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_script03_2/Ses03M_script03_2_M006.wav",
+    "length": 2.6539375,
+    "emo": "ang"
+  },
+  "Ses04F_impro03_M018": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_M018.wav",
+    "length": 1.46,
+    "emo": "neu"
+  },
+  "Ses01M_impro04_F018": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro04/Ses01M_impro04_F018.wav",
+    "length": 7.8399375,
+    "emo": "neu"
+  },
+  "Ses03M_impro02_F017": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro02/Ses03M_impro02_F017.wav",
+    "length": 3.476125,
+    "emo": "sad"
+  },
+  "Ses03M_impro05a_F028": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro05a/Ses03M_impro05a_F028.wav",
+    "length": 1.2899375,
+    "emo": "ang"
+  },
+  "Ses03M_impro05a_F011": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro05a/Ses03M_impro05a_F011.wav",
+    "length": 1.79,
+    "emo": "neu"
+  },
+  "Ses04M_impro06_M003": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_impro06/Ses04M_impro06_M003.wav",
+    "length": 1.5964375,
+    "emo": "sad"
+  },
+  "Ses02F_impro08_M011": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro08/Ses02F_impro08_M011.wav",
+    "length": 1.567,
+    "emo": "neu"
+  },
+  "Ses02F_impro05_M017": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro05/Ses02F_impro05_M017.wav",
+    "length": 3.37,
+    "emo": "neu"
+  },
+  "Ses01M_impro06_F003": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_F003.wav",
+    "length": 2.79,
+    "emo": "sad"
+  },
+  "Ses05M_impro07_M045": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro07/Ses05M_impro07_M045.wav",
+    "length": 4.91,
+    "emo": "hap"
+  },
+  "Ses01M_impro02_M025": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M025.wav",
+    "length": 2.4499375,
+    "emo": "sad"
+  },
+  "Ses02F_impro03_F011": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro03/Ses02F_impro03_F011.wav",
+    "length": 4.2071875,
+    "emo": "hap"
+  },
+  "Ses03F_script01_1_M020": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script01_1/Ses03F_script01_1_M020.wav",
+    "length": 4.652875,
+    "emo": "neu"
+  },
+  "Ses05F_impro06_F019": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro06/Ses05F_impro06_F019.wav",
+    "length": 5.1,
+    "emo": "sad"
+  },
+  "Ses02M_script02_1_M005": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script02_1/Ses02M_script02_1_M005.wav",
+    "length": 5.61,
+    "emo": "hap"
+  },
+  "Ses03M_impro08a_M020": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro08a/Ses03M_impro08a_M020.wav",
+    "length": 4.8901875,
+    "emo": "neu"
+  },
+  "Ses02M_impro05_F009": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro05/Ses02M_impro05_F009.wav",
+    "length": 0.7321875,
+    "emo": "neu"
+  },
+  "Ses02M_script01_3_M020": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script01_3/Ses02M_script01_3_M020.wav",
+    "length": 4.3141875,
+    "emo": "sad"
+  },
+  "Ses01F_script02_1_F000": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_F000.wav",
+    "length": 2.07,
+    "emo": "neu"
+  },
+  "Ses01F_impro07_M018": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_impro07/Ses01F_impro07_M018.wav",
+    "length": 4.7824375,
+    "emo": "neu"
+  },
+  "Ses01M_impro05_M024": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_M024.wav",
+    "length": 3.5,
+    "emo": "ang"
+  },
+  "Ses04M_impro04_M004": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_impro04/Ses04M_impro04_M004.wav",
+    "length": 4.09,
+    "emo": "neu"
+  },
+  "Ses01F_script03_2_F013": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_F013.wav",
+    "length": 2.0785,
+    "emo": "ang"
+  },
+  "Ses04M_script01_2_F004": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script01_2/Ses04M_script01_2_F004.wav",
+    "length": 2.8399375,
+    "emo": "ang"
+  },
+  "Ses02F_impro08_M018": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro08/Ses02F_impro08_M018.wav",
+    "length": 2.9856875,
+    "emo": "neu"
+  },
+  "Ses04M_script01_1_M037": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script01_1/Ses04M_script01_1_M037.wav",
+    "length": 3.81,
+    "emo": "ang"
+  },
+  "Ses03M_impro06_M025": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro06/Ses03M_impro06_M025.wav",
+    "length": 4.4050625,
+    "emo": "sad"
+  },
+  "Ses02F_impro03_F009": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro03/Ses02F_impro03_F009.wav",
+    "length": 12.087,
+    "emo": "hap"
+  },
+  "Ses04M_impro01_M003": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_impro01/Ses04M_impro01_M003.wav",
+    "length": 1.3199375,
+    "emo": "neu"
+  },
+  "Ses05F_script02_2_M018": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_script02_2/Ses05F_script02_2_M018.wav",
+    "length": 7.369875,
+    "emo": "hap"
+  },
+  "Ses05M_script01_2_F005": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script01_2/Ses05M_script01_2_F005.wav",
+    "length": 2.37,
+    "emo": "ang"
+  },
+  "Ses02F_impro08_F009": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro08/Ses02F_impro08_F009.wav",
+    "length": 4.2439375,
+    "emo": "neu"
+  },
+  "Ses03M_impro08b_M005": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro08b/Ses03M_impro08b_M005.wav",
+    "length": 10.8999375,
+    "emo": "neu"
+  },
+  "Ses03F_impro07_F022": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro07/Ses03F_impro07_F022.wav",
+    "length": 4.159125,
+    "emo": "hap"
+  },
+  "Ses03M_impro06_F000": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro06/Ses03M_impro06_F000.wav",
+    "length": 5.0378125,
+    "emo": "sad"
+  },
+  "Ses01M_impro05_F005": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_F005.wav",
+    "length": 2.86,
+    "emo": "neu"
+  },
+  "Ses05M_script01_3_M022": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script01_3/Ses05M_script01_3_M022.wav",
+    "length": 2.4399375,
+    "emo": "neu"
+  },
+  "Ses01M_script01_1_F025": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_F025.wav",
+    "length": 3.6299375,
+    "emo": "neu"
+  },
+  "Ses05F_script03_2_F018": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_script03_2/Ses05F_script03_2_F018.wav",
+    "length": 3.14,
+    "emo": "ang"
+  },
+  "Ses03F_script02_2_M008": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script02_2/Ses03F_script02_2_M008.wav",
+    "length": 3.3206875,
+    "emo": "neu"
+  },
+  "Ses02M_impro05_M016": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro05/Ses02M_impro05_M016.wav",
+    "length": 6.8178125,
+    "emo": "ang"
+  },
+  "Ses03F_script02_2_F022": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script02_2/Ses03F_script02_2_F022.wav",
+    "length": 5.987,
+    "emo": "sad"
+  },
+  "Ses03F_script01_1_M053": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script01_1/Ses03F_script01_1_M053.wav",
+    "length": 5.6108125,
+    "emo": "neu"
+  },
+  "Ses05M_script01_3_F025": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script01_3/Ses05M_script01_3_F025.wav",
+    "length": 10.56,
+    "emo": "sad"
+  },
+  "Ses01M_script03_2_M013": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M013.wav",
+    "length": 6.2025,
+    "emo": "neu"
+  },
+  "Ses05M_script01_1_F036": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script01_1/Ses05M_script01_1_F036.wav",
+    "length": 2.46,
+    "emo": "ang"
+  },
+  "Ses03F_script03_2_F042": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script03_2/Ses03F_script03_2_F042.wav",
+    "length": 10.74,
+    "emo": "ang"
+  },
+  "Ses05F_script02_1_F005": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_script02_1/Ses05F_script02_1_F005.wav",
+    "length": 1.15,
+    "emo": "neu"
+  },
+  "Ses03M_impro07_F008": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro07/Ses03M_impro07_F008.wav",
+    "length": 2.4399375,
+    "emo": "hap"
+  },
+  "Ses04F_script01_3_M034": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_script01_3/Ses04F_script01_3_M034.wav",
+    "length": 9.8199375,
+    "emo": "sad"
+  },
+  "Ses01F_impro06_M009": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_impro06/Ses01F_impro06_M009.wav",
+    "length": 1.3499375,
+    "emo": "neu"
+  },
+  "Ses02F_script01_2_M004": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_script01_2/Ses02F_script01_2_M004.wav",
+    "length": 2.28,
+    "emo": "neu"
+  },
+  "Ses04F_impro01_M024": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro01/Ses04F_impro01_M024.wav",
+    "length": 4.25,
+    "emo": "ang"
+  },
+  "Ses05M_script02_2_M016": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script02_2/Ses05M_script02_2_M016.wav",
+    "length": 11.17,
+    "emo": "neu"
+  },
+  "Ses02F_script01_3_M028": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_script01_3/Ses02F_script01_3_M028.wav",
+    "length": 8.99,
+    "emo": "sad"
+  },
+  "Ses05F_impro05_M033": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro05/Ses05F_impro05_M033.wav",
+    "length": 7.6999375,
+    "emo": "neu"
+  },
+  "Ses05M_script03_2_M039": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script03_2/Ses05M_script03_2_M039.wav",
+    "length": 2.54,
+    "emo": "ang"
+  },
+  "Ses03F_script01_1_F053": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script01_1/Ses03F_script01_1_F053.wav",
+    "length": 4.7623125,
+    "emo": "neu"
+  },
+  "Ses02F_script01_2_M006": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_script01_2/Ses02F_script01_2_M006.wav",
+    "length": 1.8899375,
+    "emo": "neu"
+  },
+  "Ses02F_impro08_F020": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro08/Ses02F_impro08_F020.wav",
+    "length": 2.3915,
+    "emo": "neu"
+  },
+  "Ses04M_impro01_F012": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_impro01/Ses04M_impro01_F012.wav",
+    "length": 3.2599375,
+    "emo": "neu"
+  },
+  "Ses01F_impro07_M002": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_impro07/Ses01F_impro07_M002.wav",
+    "length": 5.17,
+    "emo": "hap"
+  },
+  "Ses03M_impro06_F005": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro06/Ses03M_impro06_F005.wav",
+    "length": 3.8453125,
+    "emo": "sad"
+  },
+  "Ses03F_impro03_F017": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro03/Ses03F_impro03_F017.wav",
+    "length": 1.8865625,
+    "emo": "hap"
+  },
+  "Ses04M_script02_1_F018": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script02_1/Ses04M_script02_1_F018.wav",
+    "length": 10.1535,
+    "emo": "ang"
+  },
+  "Ses02F_impro05_F006": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro05/Ses02F_impro05_F006.wav",
+    "length": 8.3899375,
+    "emo": "ang"
+  },
+  "Ses05F_script02_2_F032": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_script02_2/Ses05F_script02_2_F032.wav",
+    "length": 16.507375,
+    "emo": "sad"
+  },
+  "Ses04M_script02_1_M022": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script02_1/Ses04M_script02_1_M022.wav",
+    "length": 10.2099375,
+    "emo": "hap"
+  },
+  "Ses03M_impro06_M011": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro06/Ses03M_impro06_M011.wav",
+    "length": 5.329875,
+    "emo": "sad"
+  },
+  "Ses01F_impro07_F012": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_impro07/Ses01F_impro07_F012.wav",
+    "length": 5.8799375,
+    "emo": "hap"
+  },
+  "Ses03M_impro04_M000": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro04/Ses03M_impro04_M000.wav",
+    "length": 3.1599375,
+    "emo": "sad"
+  },
+  "Ses01M_script01_3_M018": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M018.wav",
+    "length": 4.86,
+    "emo": "hap"
+  },
+  "Ses05M_script01_3_F010": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script01_3/Ses05M_script01_3_F010.wav",
+    "length": 2.67,
+    "emo": "sad"
+  },
+  "Ses05F_impro02_M033": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro02/Ses05F_impro02_M033.wav",
+    "length": 9.33,
+    "emo": "sad"
+  },
+  "Ses04F_impro07_M009": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_M009.wav",
+    "length": 4.75,
+    "emo": "neu"
+  },
+  "Ses04F_impro06_M011": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro06/Ses04F_impro06_M011.wav",
+    "length": 7.2399375,
+    "emo": "sad"
+  },
+  "Ses01M_script02_2_M021": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M021.wav",
+    "length": 4.7124375,
+    "emo": "neu"
+  },
+  "Ses01M_script01_1_F042": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_F042.wav",
+    "length": 3.861,
+    "emo": "ang"
+  },
+  "Ses03M_script03_2_F014": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_script03_2/Ses03M_script03_2_F014.wav",
+    "length": 1.6904375,
+    "emo": "ang"
+  },
+  "Ses02M_impro03_F016": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro03/Ses02M_impro03_F016.wav",
+    "length": 2.13575,
+    "emo": "hap"
+  },
+  "Ses01M_impro04_F005": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro04/Ses01M_impro04_F005.wav",
+    "length": 3.3,
+    "emo": "neu"
+  },
+  "Ses03M_script01_1_F040": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_script01_1/Ses03M_script01_1_F040.wav",
+    "length": 4.5541875,
+    "emo": "sad"
+  },
+  "Ses04M_impro01_F018": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_impro01/Ses04M_impro01_F018.wav",
+    "length": 4.4099375,
+    "emo": "ang"
+  },
+  "Ses05F_impro02_F021": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro02/Ses05F_impro02_F021.wav",
+    "length": 3.14,
+    "emo": "sad"
+  },
+  "Ses01F_script03_2_F000": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_F000.wav",
+    "length": 5.25,
+    "emo": "hap"
+  },
+  "Ses03F_impro06_F007": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_impro06/Ses03F_impro06_F007.wav",
+    "length": 2.8258125,
+    "emo": "sad"
+  },
+  "Ses05M_impro07_F022": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro07/Ses05M_impro07_F022.wav",
+    "length": 2.86,
+    "emo": "hap"
+  },
+  "Ses02M_impro07_M032": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro07/Ses02M_impro07_M032.wav",
+    "length": 4.1255,
+    "emo": "hap"
+  },
+  "Ses01M_script03_1_F003": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_F003.wav",
+    "length": 2.838,
+    "emo": "hap"
+  },
+  "Ses05M_script03_2_M010": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_script03_2/Ses05M_script03_2_M010.wav",
+    "length": 1.8899375,
+    "emo": "neu"
+  },
+  "Ses05F_impro02_F005": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro02/Ses05F_impro02_F005.wav",
+    "length": 3.49,
+    "emo": "sad"
+  },
+  "Ses05F_impro06_F000": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro06/Ses05F_impro06_F000.wav",
+    "length": 5.39675,
+    "emo": "sad"
+  },
+  "Ses01M_script03_2_F035": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_F035.wav",
+    "length": 5.0099375,
+    "emo": "ang"
+  },
+  "Ses01M_impro05_F006": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_F006.wav",
+    "length": 2.7475,
+    "emo": "neu"
+  },
+  "Ses02F_impro07_F008": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro07/Ses02F_impro07_F008.wav",
+    "length": 7.72,
+    "emo": "hap"
+  },
+  "Ses04M_script03_2_M041": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script03_2/Ses04M_script03_2_M041.wav",
+    "length": 2.71225,
+    "emo": "ang"
+  },
+  "Ses04M_script02_1_M023": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_script02_1/Ses04M_script02_1_M023.wav",
+    "length": 7.93,
+    "emo": "hap"
+  },
+  "Ses03M_impro05b_M023": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro05b/Ses03M_impro05b_M023.wav",
+    "length": 4.3,
+    "emo": "ang"
+  },
+  "Ses02M_impro07_F026": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro07/Ses02M_impro07_F026.wav",
+    "length": 1.49,
+    "emo": "hap"
+  },
+  "Ses01M_script03_1_F041": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_F041.wav",
+    "length": 4.8411875,
+    "emo": "hap"
+  },
+  "Ses03F_script01_2_F002": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03F_script01_2/Ses03F_script01_2_F002.wav",
+    "length": 3.1258125,
+    "emo": "ang"
+  },
+  "Ses02F_impro07_F036": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro07/Ses02F_impro07_F036.wav",
+    "length": 2.2395,
+    "emo": "hap"
+  },
+  "Ses01M_script01_3_F014": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_F014.wav",
+    "length": 2.0,
+    "emo": "hap"
+  },
+  "Ses05F_impro08_M022": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro08/Ses05F_impro08_M022.wav",
+    "length": 1.09,
+    "emo": "neu"
+  },
+  "Ses01F_script03_1_M036": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01F_script03_1/Ses01F_script03_1_M036.wav",
+    "length": 5.1824375,
+    "emo": "hap"
+  },
+  "Ses03M_script03_2_M014": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_script03_2/Ses03M_script03_2_M014.wav",
+    "length": 4.9506875,
+    "emo": "ang"
+  },
+  "Ses04F_impro03_F001": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_F001.wav",
+    "length": 4.1899375,
+    "emo": "hap"
+  },
+  "Ses01M_impro07_F025": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_F025.wav",
+    "length": 3.605,
+    "emo": "hap"
+  },
+  "Ses05M_impro06_M014": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro06/Ses05M_impro06_M014.wav",
+    "length": 7.5450625,
+    "emo": "sad"
+  },
+  "Ses02F_impro07_M028": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro07/Ses02F_impro07_M028.wav",
+    "length": 8.13475,
+    "emo": "hap"
+  },
+  "Ses05F_impro03_M010": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_impro03/Ses05F_impro03_M010.wav",
+    "length": 5.6899375,
+    "emo": "hap"
+  },
+  "Ses02M_impro06_F008": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_impro06/Ses02M_impro06_F008.wav",
+    "length": 5.1888125,
+    "emo": "sad"
+  },
+  "Ses02F_impro03_M020": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro03/Ses02F_impro03_M020.wav",
+    "length": 6.27,
+    "emo": "hap"
+  },
+  "Ses05M_impro03_F026": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro03/Ses05M_impro03_F026.wav",
+    "length": 2.0599375,
+    "emo": "neu"
+  },
+  "Ses05F_script01_3_M005": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05F_script01_3/Ses05F_script01_3_M005.wav",
+    "length": 10.015125,
+    "emo": "hap"
+  },
+  "Ses02M_script03_2_M016": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02M_script03_2/Ses02M_script03_2_M016.wav",
+    "length": 2.930625,
+    "emo": "neu"
+  },
+  "Ses04M_impro03_M024": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session4/sentences/wav/Ses04M_impro03/Ses04M_impro03_M024.wav",
+    "length": 17.2236875,
+    "emo": "hap"
+  },
+  "Ses05M_impro03_F031": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session5/sentences/wav/Ses05M_impro03/Ses05M_impro03_F031.wav",
+    "length": 3.1099375,
+    "emo": "hap"
+  },
+  "Ses02F_impro06_F011": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session2/sentences/wav/Ses02F_impro06/Ses02F_impro06_F011.wav",
+    "length": 2.1599375,
+    "emo": "sad"
+  },
+  "Ses03M_impro03_M035": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session3/sentences/wav/Ses03M_impro03/Ses03M_impro03_M035.wav",
+    "length": 3.4253125,
+    "emo": "hap"
+  },
+  "Ses01M_script01_3_M019": {
+    "wav": "/media/super514/2TSSD/Mark/Audio data/IEMOCAP_remake/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M019.wav",
+    "length": 2.86,
+    "emo": "hap"
+  }
+}
